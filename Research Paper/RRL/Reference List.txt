@@ -1,0 +1,9 @@
+References:
+
+Format: [Topics;]-[Author]-Title-Link
+
+1:
+[Thermal Comfort; Predicted Mean Vote (PMV); Calculation;]-[ANSI/ASHRAE]-ANSI/ASHRAE Standard 22-2023: Thermal Environmental Conditions for Human Occupancy-https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy
+
+2:
+
